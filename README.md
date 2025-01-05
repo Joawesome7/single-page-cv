@@ -1,6 +1,8 @@
 # Single-Page-Cv
 
-## This is a personal single-page CV created using HTML. The goal of this project is to showcase your professional experience and skills in a clean and simple format. The page is designed with the following features:
+This is a personal single-page CV created using HTML. The goal of this project is to showcase your professional experience and skills in a clean and simple format. The page is designed with the following.
+
+# Features:
 
   -  Semantic HTML: Uses proper HTML tags to structure the content clearly and meaningfully.
   -  SEO Meta Tags: Includes important meta tags to improve search engine visibility.
